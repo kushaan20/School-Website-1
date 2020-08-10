@@ -1,0 +1,28 @@
+html{
+    background-color: red;
+}
+
+h1 {
+    color: black;
+}
+.header{
+    
+    display:center;
+    justify-content: space-between;
+}
+
+.menu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+ 
+/*.menu{
+    background-color: burlywood;
+}*/
+
+.grid{
+    display: grid;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
